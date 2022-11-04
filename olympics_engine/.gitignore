@@ -1,0 +1,8 @@
+# Default ignored files
+__pycache__/*
+scenario/__pycache__/*
+test/.pytest_cache/
+.idea
+/train/models/
+*/__pycache__/*
+*/*/__pycache__/*
